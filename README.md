@@ -2,18 +2,17 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3>  🏻🧑•💻 About Me </h3>
+<h3>  🏻👨🏾‍🦲•💻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explore new technologies and develop software solutions
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; I'm studying systems engineering, and at the same time I'm studying in academlo as a full stack web developer.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱&nbsp; Learning everything related to web development
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+- ✍️ &nbsp; I develop my English in my spare time I take it as a hobby.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -22,7 +21,7 @@
 
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git
 
 <!--
 - 🛢 &nbsp; MySQL 
