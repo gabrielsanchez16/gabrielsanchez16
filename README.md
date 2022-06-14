@@ -43,7 +43,7 @@
 
 <br/>
 
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="350" align='right' >
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" align='right' >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanchez16&show_icons=true)
 
@@ -63,13 +63,13 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://gabrielsanchezdev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/gabrielsanchezdev.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gabriel-sanchez-717222206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel-Sanchez-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/gabo_dev_athlete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__Gabo_dev_athlete-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gabrielpelota.8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabrielpelota.8@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
