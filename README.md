@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" align='right' >
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align='right' >
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanchez16&show_icons=true)
 
