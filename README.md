@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Gabriel</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="230">
 
 <h3>  🏻👨🏾‍🦲•💻 About Me </h3>
 
