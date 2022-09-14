@@ -21,12 +21,12 @@
 
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git | NodeJs | Express | Tailwind
 
 <!--
-- 🛢 &nbsp; MySQL 
+- 🛢 &nbsp; Postgres 
 - 🔧 &nbsp; Git 
-- 💻 &nbsp; Pyt | Java | C++ | C | MySQL
+- 💻 &nbsp; 
 -->
 
 
