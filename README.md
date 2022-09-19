@@ -1,5 +1,7 @@
 ### Hi there 👋<h2> I'm Gabriel</h2>
 
+<h1>Web Developer</h1>
+
 <img align='right' src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="230">
 
 <h3>  🏻👨🏾‍🦲•💻 About Me </h3>
