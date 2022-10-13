@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<a href="https://gabrielsanchezdev.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/gabrielsanchezdev.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://gabo-dev-site.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/gabrielsanchezdev.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/gabriel-sanchez-717222206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel_Sanchez-blue?style=flat-square&logo=linkedin"></a>
 
