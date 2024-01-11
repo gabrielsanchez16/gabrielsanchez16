@@ -68,7 +68,7 @@
 
 <a href="https://www.linkedin.com/in/gabriel-sanchez-717222206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel_Sanchez-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/gabo_dev_athlete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Gabo_dev_athlete-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/gabito_dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Gabo_dev_athlete-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:gabrielpelota.8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabrielpelota.8@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
