@@ -1,16 +1,16 @@
 ### Hi there 👋<h2> I'm Gabriel</h2>
 
-<h1 align='center' >FullStack Developer</h1>
+<h1 align='center' >Frontend&Backend Developer</h1>
 
 <img align='right' src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="230">
 
-<h3>  🏻👨🏾‍🦲•💻 About Me </h3>
+<h3>  🏻•💻 About Me </h3>
 
 
 
 - 🤔 &nbsp; Explore new technologies and develop software solutions
 
-- 🎓 &nbsp; I'm studying systems engineering, and at the same time I'm studying in academlo as a full stack web developer.
+- 🎓 &nbsp; I am studying systems engineering; I graduated from the bootcamp academlo as a full stack web developer.
 
 - 🌱&nbsp; Learning everything related to web development
 
@@ -23,7 +23,7 @@
 
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git | NodeJs | Express | Tailwind
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git | NodeJs | Express | Tailwind | Typescript | Angular
 
 <!--
 - 🛢 &nbsp; Postgres 
