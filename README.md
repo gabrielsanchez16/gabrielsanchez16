@@ -70,7 +70,7 @@
 
 <a href="https://www.instagram.com/gabito_dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Gabo_dev_athlete-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:gabrielpelota.8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabrielpelota.8@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:gsanchezalarcon52@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gsanchezalarcon52@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
