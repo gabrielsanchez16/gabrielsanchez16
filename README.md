@@ -1,78 +1,113 @@
-### Hi there 👋<h2> I'm Gabriel</h2>
+# 👋 Hola, soy Gabriel Sánchez
 
-<h1 align='center' >Frontend&Backend Developer</h1>
+### 🚀 Desarrollador Full Stack | Construyendo soluciones web modernas y escalables
 
-<img align='right' src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="230">
+Soy un desarrollador full stack con más de **3 años de experiencia** creando aplicaciones robustas, eficientes y orientadas al usuario. Me apasiona construir tecnologías que resuelvan problemas reales, con enfoque en buenas prácticas, escalabilidad y rendimiento.
 
-<h3>  🏻•💻 About Me </h3>
+---
 
+## 🧠 Sobre mí
 
+💻 Full Stack Developer con experiencia en frontend y backend.  
+📍 Actualmente ubicado en Colombia.  
+🎯 Motivado por la innovación, el aprendizaje continuo y los desafíos técnicos.  
+🔥 Enfocado en clean code, arquitectura sólida y desarrollo eficiente.
 
-- 🤔 &nbsp; Explore new technologies and develop software solutions
+---
 
-- 🎓 &nbsp; I am studying systems engineering; I graduated from the bootcamp academlo as a full stack web developer.
+## ⚙️ Tecnologías y Herramientas
 
-- 🌱&nbsp; Learning everything related to web development
+### 🧩 Frontend
+- React.js | Next.js | Angular (nivel básico)
+- HTML5 | CSS3 | TailwindCSS
 
-- ✍️ &nbsp; I develop my English in my spare time I take it as a hobby.
+### 🧩 Backend
+- Laravel (PHP)
+- Node.js | Express.js
 
+### 🗄️ Bases de Datos
+- MySQL | PostgreSQL
 
-<h3>🛠 Tech Stack</h3>
+### 🛠️ Otros
+- Desarrollo de APIs RESTful
+- Versionamiento con Git
+- Autenticación, seguridad, integración de servicios externos
+- Deploy en servidores y entornos productivos
 
+---
 
+## 💼 Experiencia Profesional
 
+### 🧑‍💻 Desarrollador Full Stack  
+**Agencia de Medios PDT, Medellín** _(2022 - Actualidad)_
 
+- Desarrollo y mantenimiento de aplicaciones web escalables.
+- Optimización de rendimiento, UX y carga del sistema.
+- Integración de tecnologías modernas para mejorar procesos internos.
+- Resolución de errores, pruebas y seguimiento continuo.
+- Participación en proyectos de gran escala contribuyendo en frontend y backend.
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | Git | NodeJs | Express | Tailwind | Typescript | Angular
+### 🎥 Monitor Audiovisual  
+**Universidad del Pacífico, Buenaventura** _(2024)_
 
-<!--
-- 🛢 &nbsp; Postgres 
-- 🔧 &nbsp; Git 
-- 💻 &nbsp; 
--->
+- Asistencia técnica y operativa.
+- Gestión responsable de equipos y recursos.
+- Supervisión, soporte y reporte de actividades.
 
+---
 
-<hr>
+## 🎓 Educación
 
+- 🎓 **Ingeniería de Sistemas** — Universidad del Pacífico _(2020 - Actualidad)_
+- 🧑‍💻 **Desarrollador Full Stack** — Academlo _(2022)_
+- 🛠️ **Técnico laboral en Mecánica de Motos** — Cursos Especialistas del Valle _(2025 - Actualidad)_
+- 📚 Bachiller — Centro Docente Independencia _(2018)_
 
+---
 
-<br/><br/>
+## 🧩 Habilidades Blandas & Técnicas
 
-[![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsanchez16&show_icons=true)](https://github.com/gabrielsanchez16)
+- 🧠 Pensamiento analítico  
+- 🤝 Trabajo en equipo  
+- 🚀 Responsabilidad y compromiso  
+- 🧩 POO, estructuras de datos y algoritmos  
+- 🎯 Comunicación efectiva  
+- ⚡ Capacidad de aprendizaje continuo
 
-<br/>
+---
 
-<br/>
+## 🌍 Idiomas
 
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align='right' >
+- 🇪🇸 Español — Nativo  
+- 🇺🇸 Inglés — Básico
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsanchez16&show_icons=true)
+---
 
-<br><br>
+## 🏆 Intereses
 
+Cuando no estoy programando, me encontrarás:
 
+🏃 Practicando triatlón o running  
+🚴 Explorando rutas en bicicleta  
+🏍️ Viajes en moto y mecánica  
+🎬 Disfrutando buen cine y nuevas experiencias  
+🌍 Descubriendo lugares y culturas
 
-<hr>
+---
 
+## 📫 Contáctame
 
+📧 **Email:** gsanchezalarcon52@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/gabriel-sanchez-717222206/  
+🌐 **Portafolio:** gabo-dev-site.netlify.app  
+📱 **Teléfono:** 3116036787
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
 
-<br>
+✨ _“El código no solo resuelve problemas… también construye ideas.”_  
 
-
-
-<p align="center">
-
-<a href="https://gabo-dev-site.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/gabrielsanchezdev.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.linkedin.com/in/gabriel-sanchez-717222206/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel_Sanchez-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/gabito_dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Gabo_dev_athlete-black?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:gsanchezalarcon52@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gsanchezalarcon52@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
+Gracias por visitar mi perfil 👇  
+⭐ Si algún proyecto te inspira o ayuda, no dudes en darle una estrella.
 
 
 
